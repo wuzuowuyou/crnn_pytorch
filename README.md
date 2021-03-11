@@ -4,7 +4,8 @@ Convolutional Recurrent Neural Network
 详细教程见博客(https://www.cnblogs.com/yanghailin/p/14519525.html)
 
 This software implements the Convolutional Recurrent Neural Network (CRNN) in pytorch.
-Origin software could be found in [crnn](https://github.com/meijieru/crnn.pytorch)
+Origin software could be found in [ meijieru/
+crnn.pytorch ](https://github.com/meijieru/crnn.pytorch)
 
 Run demo
 --------
