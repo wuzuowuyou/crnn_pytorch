@@ -90,10 +90,10 @@ import glob
 if __name__ == '__main__':
     
     #lmdb 输出目录
-    outputPath = '/data_1/everyday/xian/20210308_crnn/IIIT5K/my/lmdb3'
+    outputPath = '/data_1/crnn/IIIT5K/my/lmdb3'
  
     # 训练图片路径，标签是txt格式，名字跟图片名字要一致，如123.jpg对应标签需要是123.txt
-    path = '/data_1/everyday/xian/20210308_crnn/IIIT5K/my/train/*.png'
+    path = '/data_1/crnn/IIIT5K/my/train/*.png'
  
     imagePathList = glob.glob(path)
     print '------------',len(imagePathList),'------------'
